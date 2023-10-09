@@ -16,13 +16,13 @@ Heated Bed: Prusa Mini DC Magnetic Bed w/PEI Sheets
 Stepper Motors - Stealing from whatever the V0.2 uses, changing around the Z motor
 
 
-Nozzle - Unknown right now, probably will do something with quick swap. I probably want a CHT nozzle to go super fast
+Nozzle - Hardened CHT Nozzle with standard M6 Threads. 
 
 
-Extruder - Going to steal/modify a current extruder design, direct drive
+Extruder - Bondtech BMG At the Moment
 
 
-Display: Will probably get octoprint set up, but also hoping for a nice touchscreen
+Display: Will get octoprint set up, but also hoping for a nice touchscreen
 
 
 Firmware: I will get a custom klipper profile set up
@@ -56,3 +56,9 @@ Stepper Motors:
 
 
 Power Supply: https://www.amazon.com/MEAN-WELL-LRS-350-24-Switching-Printer/dp/B07SQLJG5L/ref=sr_1_3?hvadid=570433200159&hvdev=c&hvlocphy=9001951&hvnetw=g&hvqmt=e&hvrand=8415374557647128318&hvtargid=kwd-297537352961&hydadcr=19107_13375052&keywords=meanwell%2B24v%2B350w&qid=1696872093&sr=8-3&th=1
+
+
+Extruder: https://www.bondtech.se/product/bmg-extruder/
+
+
+Nozzle: 
