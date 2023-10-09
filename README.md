@@ -3,27 +3,39 @@ Files and design for my 180mm^3 printer
 
 Few design ideas right now
 
+
 Motherboard - BTT V1.4 w/ MOTv1.0 for a total of 8 stepper motors, or BTT Pro V1.2 for 6
+
 
 Power Supply - ??? At least 200W, no bigger than 350W
 
+
 Heated Bed: Prusa Mini DC Magnetic Bed w/PEI Sheets
+
 
 Stepper Motors - Stealing from whatever the V0.2 uses, changing around the Z motor
 
+
 Nozzle - Unknown right now, probably will do something with quick swap. I probably want a CHT nozzle to go super fast
+
 
 Extruder - Going to steal/modify a current extruder design, direct drive
 
+
 Display: Will probably get octoprint set up, but also hoping for a nice touchscreen
+
 
 Firmware: I will get a custom klipper profile set up
 
+
 Auto Leveling: I will have autoleveling, just unsure as to how. 
+
 
 Core XY machine, have not decided whether to do belted z or leadscrew z yet.
 
+
 Enclosed, hoping to reach chamber temps of ~60C at least, Nozzle of at least 300C, maybe even 350C
+
 
 Above all, this should be fast. And relatively cheap and easy to make. 
 
