@@ -37,6 +37,9 @@ Core XY machine, have not decided whether to do belted z or leadscrew z yet.
 Enclosed, hoping to reach chamber temps of ~60C at least, Nozzle of at least 300C, maybe even 350C
 
 
+Nevermore Carbon Filter to allow for printing of all materials safely. 
+
+
 Above all, this should be fast. Very Fast. And relatively cheap and easy to make. And, it should be able to print some "engineering grade materials". Finally, fun is the #1 priority
 
 Links:
