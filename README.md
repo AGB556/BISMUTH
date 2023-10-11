@@ -34,7 +34,10 @@ Auto Leveling: I will have autoleveling, just unsure as to how.
 Core XY machine, 3 Motor Leadscrew with kinematic joints to have tramming
 
 
-Enclosed, hoping to reach chamber temps of ~60C at least, Nozzle of at least 300C, maybe even 350C
+Enclosed, hoping to reach chamber temps of ~60C at least, 
+
+
+Hotend: Phateus Dragon HF
 
 
 Nevermore Carbon Filter to allow for printing of all materials safely. 
