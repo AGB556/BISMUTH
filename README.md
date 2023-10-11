@@ -31,7 +31,7 @@ Firmware: I will get a custom klipper profile set up
 Auto Leveling: I will have autoleveling, just unsure as to how. 
 
 
-Core XY machine, have not decided whether to do belted z or leadscrew z yet.
+Core XY machine, 3 Motor Leadscrew with kinematic joints to have tramming
 
 
 Enclosed, hoping to reach chamber temps of ~60C at least, Nozzle of at least 300C, maybe even 350C
