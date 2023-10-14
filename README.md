@@ -68,3 +68,15 @@ Extruder: https://www.bondtech.se/product/bmg-extruder/
 
 
 Nozzle: 
+
+
+Hotend: https://www.trianglelab.net/products/dragon-hotend?VariantsId=11328
+
+
+Leadscrew: https://www.amazon.com/HAWKUNG-Stainless-Threaded-Printer-Machine/dp/B07P6HQMHT/ref=sr_1_2?crid=YUWJ4SLLUF71&keywords=steel%2Bt8%2Bleadscrew%2B300mm&qid=1697238579&s=industrial&sprefix=steel%2Bt8%2Bleadscrew%2B300mm%2Cindustrial%2C59&sr=1-2&th=1
+
+
+Coupler: https://www.amazon.com/ReliaBot-Flexible-Couplings-Printer-Machine/dp/B079J22KX1/ref=sr_1_2?crid=6FX2TSSO6NI4&keywords=8mm%2Blead%2Bscrew%2Bcoupler&qid=1697238228&s=industrial&sprefix=8mm%2Blead%2Bscrew%2Bcoupler%2Cindustrial%2C64&sr=1-2&th=1
+
+
+POM Nuts: https://www.amazon.com/FYSETC-Backlash-Threaded-Eliminate-Compatible/dp/B08XZDVMFY/ref=sr_1_14_sspa?crid=NI3AYN46GLH9&keywords=POM%2Banti%2Bbacklash%2Bnuts%2Btr8x8&qid=1697241458&s=industrial&sprefix=pom%2Banti%2Bbacklash%2Bnuts%2Btr8x8%2Cindustrial%2C68&sr=1-14-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1
