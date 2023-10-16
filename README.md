@@ -58,7 +58,8 @@ Heated Bed: https://www.prusa3d.com/product/magnetic-heatbed-mini-24v/
 PEI Sheets: /shrug
 
 
-Stepper Motors:
+Stepper Motors: LDO Nema_17_42STH48-2504AC for the X,Y, and all three Z Motors.
+https://www.filastruder.com/products/ldo-stepper-motors-all-types?_pos=2&_sid=eef1ee165&_ss=r&variant=39580977791047
 
 
 Power Supply: https://www.amazon.com/MEAN-WELL-LRS-350-24-Switching-Printer/dp/B07SQLJG5L/ref=sr_1_3?hvadid=570433200159&hvdev=c&hvlocphy=9001951&hvnetw=g&hvqmt=e&hvrand=8415374557647128318&hvtargid=kwd-297537352961&hydadcr=19107_13375052&keywords=meanwell%2B24v%2B350w&qid=1696872093&sr=8-3&th=1
