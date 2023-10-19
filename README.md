@@ -13,13 +13,13 @@ Power Supply - MeanWell 24V 350W Power Supply
 Heated Bed: Prusa Mini DC Magnetic Bed w/PEI Sheets
 
 
-Stepper Motors - Stealing from whatever the V0.2 uses, changing around the Z motor
+Stepper Motors - 
 
 
 Nozzle - Hardened CHT Nozzle with standard M6 Threads. 
 
 
-Extruder - Bondtech BMG At the Moment
+Extruder - Sherpa Mini
 
 
 Display: Will get octoprint set up, but also hoping for a nice touchscreen
@@ -37,7 +37,7 @@ Core XY machine, 3 Motor Leadscrew with kinematic joints to have tramming
 Enclosed, hoping to reach chamber temps of ~60C at least, 
 
 
-Hotend: Phateus Dragon HF
+Hotend: Phateus Rapido HF
 
 
 Nevermore Carbon Filter to allow for printing of all materials safely. 
@@ -59,19 +59,18 @@ PEI Sheets: /shrug
 
 
 Stepper Motors: LDO Nema_17_42STH48-2504AC for the X,Y, and all three Z Motors.
-https://www.filastruder.com/products/ldo-stepper-motors-all-types?_pos=2&_sid=eef1ee165&_ss=r&variant=39580977791047
+https://www.fabreeko.com/products/ldo-42sth48-2504ah-high-temp?_pos=1&_sid=82ea4f762&_ss=r
 
 
 Power Supply: https://www.amazon.com/MEAN-WELL-LRS-350-24-Switching-Printer/dp/B07SQLJG5L/ref=sr_1_3?hvadid=570433200159&hvdev=c&hvlocphy=9001951&hvnetw=g&hvqmt=e&hvrand=8415374557647128318&hvtargid=kwd-297537352961&hydadcr=19107_13375052&keywords=meanwell%2B24v%2B350w&qid=1696872093&sr=8-3&th=1
 
 
-Extruder: https://www.bondtech.se/product/bmg-extruder/
-
+Extruder: https://www.filastruder.com/products/ldo-sherpa-mini-extruder
 
 Nozzle: 
 
 
-Hotend: https://www.trianglelab.net/products/dragon-hotend?VariantsId=11328
+Hotend: https://www.matterhackers.com/store/l/phaetus-rapido-plus-2-hotend/sk/M56YAPMU or https://west3d.com/products/rapido-hot-end-high-flow-tl-phaetus?variant=43817479241940
 
 
 Leadscrew: https://www.amazon.com/HAWKUNG-Stainless-Threaded-Printer-Machine/dp/B07P6HQMHT/ref=sr_1_2?crid=YUWJ4SLLUF71&keywords=steel%2Bt8%2Bleadscrew%2B300mm&qid=1697238579&s=industrial&sprefix=steel%2Bt8%2Bleadscrew%2B300mm%2Cindustrial%2C59&sr=1-2&th=1
