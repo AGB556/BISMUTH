@@ -67,7 +67,11 @@ Power Supply: https://www.amazon.com/MEAN-WELL-LRS-350-24-Switching-Printer/dp/B
 
 Extruder: https://www.filastruder.com/products/ldo-sherpa-mini-extruder
 
+
 Nozzle: 
+
+
+Linear Rails: https://www.amazon.com/Miniature-Linear-Bearing-Printer-Machine/dp/B07HH5L5FK
 
 
 Hotend: https://www.matterhackers.com/store/l/phaetus-rapido-plus-2-hotend/sk/M56YAPMU or https://west3d.com/products/rapido-hot-end-high-flow-tl-phaetus?variant=43817479241940
