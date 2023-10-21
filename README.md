@@ -73,6 +73,8 @@ Nozzle:
 
 Linear Rails: https://www.amazon.com/Miniature-Linear-Bearing-Printer-Machine/dp/B07HH5L5FK or https://www.amazon.com/ANWOKIT-Miniature-Sliding-Printer-Machine/dp/B0BS9KL2H9/ref=sr_1_4?crid=3QSJXQN90B4NZ&keywords=MGN12%2B300mm%2BMiniature%2BLinear%2BRail&qid=1697833757&s=industrial&sprefix=mgn12%2B300mm%2Bminiature%2Blinear%2Brail%2Cindustrial%2C105&sr=1-4&th=1
 
+https://www.amazon.com/ANWOKIT-Miniature-Sliding-Printer-Machine/dp/B0BS9KL2H9/ref=sr_1_4?crid=3QSJXQN90B4NZ&keywords=MGN12%2B300mm%2BMiniature%2BLinear%2BRail&qid=1697833757&s=industrial&sprefix=mgn12%2B300mm%2Bminiature%2Blinear%2Brail%2Cindustrial%2C105&sr=1-4&th=1
+
 
 Hotend: https://www.matterhackers.com/store/l/phaetus-rapido-plus-2-hotend/sk/M56YAPMU or https://west3d.com/products/rapido-hot-end-high-flow-tl-phaetus?variant=43817479241940
 
