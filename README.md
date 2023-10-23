@@ -85,4 +85,4 @@ Leadscrew: https://www.amazon.com/HAWKUNG-Stainless-Threaded-Printer-Machine/dp/
 Coupler: https://www.amazon.com/Saiper-Couplings-Connector-Compatible-Accessories/dp/B07MGN29RD
 
 
-POM Nuts: https://www.amazon.com/FYSETC-Backlash-Threaded-Eliminate-Compatible/dp/B08XZDVMFY/ref=sr_1_14_sspa?crid=NI3AYN46GLH9&keywords=POM%2Banti%2Bbacklash%2Bnuts%2Btr8x8&qid=1697241458&s=industrial&sprefix=pom%2Banti%2Bbacklash%2Bnuts%2Btr8x8%2Cindustrial%2C68&sr=1-14-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1
+POM Nuts: https://www.amazon.com/Printer-Backlash-Threaded-Eliminate-Accessories/dp/B07XYQ4KJ9/ref=sr_1_3?crid=1LJ4PT1ICKPNR&keywords=Tr8x8%2BPOM&qid=1698028499&sprefix=tr8x8%2Bpom%2Caps%2C86&sr=8-3&th=1
