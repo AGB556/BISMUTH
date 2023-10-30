@@ -82,7 +82,7 @@ Hotend: https://www.matterhackers.com/store/l/phaetus-rapido-plus-2-hotend/sk/M5
 Leadscrew: https://www.amazon.com/HAWKUNG-Stainless-Threaded-Printer-Machine/dp/B07P6HQMHT/ref=sr_1_2?crid=YUWJ4SLLUF71&keywords=steel%2Bt8%2Bleadscrew%2B300mm&qid=1697238579&s=industrial&sprefix=steel%2Bt8%2Bleadscrew%2B300mm%2Cindustrial%2C59&sr=1-2&th=1
 
 
-Coupler: https://www.amazon.com/Saiper-Couplings-Connector-Compatible-Accessories/dp/B07MGN29RD
+Coupler: https://www.amazon.com/Saiper-Couplings-Connector-Compatible-Accessories/dp/B07MGN29RD and https://ratrig.com/rat-rig-bi-material-lead-screw-decoupler.html
 
 
 POM Nuts: https://www.amazon.com/Printer-Backlash-Threaded-Eliminate-Accessories/dp/B07XYQ4KJ9/ref=sr_1_3?crid=1LJ4PT1ICKPNR&keywords=Tr8x8%2BPOM&qid=1698028499&sprefix=tr8x8%2Bpom%2Caps%2C86&sr=8-3&th=1
