@@ -91,3 +91,15 @@ Coupler: https://www.amazon.com/Saiper-Couplings-Connector-Compatible-Accessorie
 
 
 POM Nuts: https://www.amazon.com/Printer-Backlash-Threaded-Eliminate-Accessories/dp/B07XYQ4KJ9/ref=sr_1_3?crid=1LJ4PT1ICKPNR&keywords=Tr8x8%2BPOM&qid=1698028499&sprefix=tr8x8%2Bpom%2Caps%2C86&sr=8-3&th=1
+
+
+
+
+
+XY MOTION SYSTEM
+
+IDLER PULLEY: https://ratrig.com/idler-pulley-toothed-for-2gt-20t-5mm-bore-multiple-sizes-and-types.html
+
+DRIVE PULLEY: https://ratrig.com/openbuilds-gt2-2mm-aluminum-timing-pulley-9mm.html
+
+STEPPER: SEE ABOVE
