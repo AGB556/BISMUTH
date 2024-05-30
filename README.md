@@ -103,3 +103,5 @@ IDLER PULLEY: https://ratrig.com/idler-pulley-toothed-for-2gt-20t-5mm-bore-multi
 DRIVE PULLEY: https://ratrig.com/openbuilds-gt2-2mm-aluminum-timing-pulley-9mm.html
 
 STEPPER: SEE ABOVE
+
+SHAFT COUPLER: https://www.amazon.com/Saiper-Couplings-Connector-Compatible-Accessories/dp/B07MGN29RD 5mm to 5mm
