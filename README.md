@@ -10,7 +10,7 @@ Motherboard - BTT V1.4 w/ MOTv1.0 for a total of 8 stepper motors
 Power Supply - MeanWell 24V 350W Power Supply 
 
 
-Heated Bed: Prusa Mini DC Magnetic Bed w/PEI Sheets
+Heated Bed: Custom with something idk yet
 
 
 Stepper Motors - 
