@@ -105,3 +105,7 @@ DRIVE PULLEY: https://ratrig.com/openbuilds-gt2-2mm-aluminum-timing-pulley-9mm.h
 STEPPER: SEE ABOVE
 
 SHAFT COUPLER: https://www.amazon.com/Saiper-Couplings-Connector-Compatible-Accessories/dp/B07MGN29RD 5mm to 5mm
+
+https://us.misumi-ec.com/vona2/detail/110302686450/?Tab=wysiwyg_area_0&curSearch=%7B%22field%22:%22@search%22,%22seriesCode%22:%22110302686450%22,%22innerCode%22:%22%22,%22sort%22:1,%22specSortFlag%22:0,%22allSpecFlag%22:0,%22page%22:1,%22pageSize%22:%2260%22,%2200000042719%22:%22a%22,%2200000042737%22:%22b%22,%2200000332720%22:%222000%22,%22cadType%22:%222%22,%22fixedInfo%22:%22MDM00001301520110302686450-1897579906-1255582774045885826%7C13%22%7D
+https://us.misumi-ec.com/vona2/detail/110302251660/?CategorySpec=unitType::1%0900000042748::c%0900000042759::a,j
+https://ratrig.com/t-nut-square-for-3030-m5-single.html
