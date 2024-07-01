@@ -49,8 +49,8 @@ Links:
 Onshape:  https://cad.onshape.com/documents/ea3003fedda180a5827edece/w/24975c8a2f1006566d68c26a/e/f749387482ee518d7d44cc61
 
 
-BTT Motherboards: https://biqu.equipment/products/bigtreetech-skr-pro-v1-1-32-bit-control-board?variant=29207358865506 / https://biqu.equipment/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board?_pos=1&_psq=1.4%20turbo&_ss=e&_v=1.0&variant=40048265822306
-
+BTT Motherboards: [https://biqu.equipment/products/bigtreetech-skr-pro-v1-1-32-bit-control-board?variant=29207358865506 / https://biqu.equipment/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board?_pos=1&_psq=1.4%20turbo&_ss=e&_v=1.0&variant=40048265822306
+](https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40144816767074)
 
 Heated Bed: https://www.prusa3d.com/product/magnetic-heatbed-mini-24v/
 
