@@ -18,8 +18,7 @@ Print Well ✅
 Print Strong 💪
 
 ------------
-![Main (11)](https://github.com/user-attachments/assets/4e9a6585-c2a4-4801-9d20-e600c330fde5)
-
+![Main (13)](https://github.com/user-attachments/assets/b9a2bc70-1b4f-41f7-a455-dc49188f2ed3)
 
 Before I get into the specifications of the machine, you can find the full CAD design in [Onshape](https://cad.onshape.com/documents/ea3003fedda180a5827edece/w/24975c8a2f1006566d68c26a/e/f749387482ee518d7d44cc61).
 
@@ -40,13 +39,11 @@ I will go over each seperate section of my printer in detail, explaining the des
   Is It Easy To Repair? 🛠️
 
   Will It Let Me Accomplish My Goals? 🦾 
-
-![image](https://github.com/user-attachments/assets/1fa7face-4420-4467-9118-d871c69ca7c8)
+  
+![Main (17)](https://github.com/user-attachments/assets/ce75745e-4e7a-479c-b75c-bcc664dc6d23)
 
 ------------
 ## Frame
-
-
 
 * Utilizes 3030 Extrusion, Plasma Cut **Steel** Gussets, and 3D-Printed Brackets
 * MGN12 Linear Rails, which are bigger and stronger than the more typical MGN9
@@ -56,8 +53,8 @@ I will go over each seperate section of my printer in detail, explaining the des
 * 17"L * 16"W * 24"H Volume
 
 There is a "Top Hat" on top of the printer that allows me to open the top of the printer to remove prints, introduce more airflow, etc. This is made with more 3030 extrusion and .125 in acrylic panels. It utilizes printed hinges to swing open/closed. 
-  
-### ![Frame Assembly (1)](https://github.com/user-attachments/assets/932d1e86-c070-43b9-b76d-8c26dee534a9)
+
+  ![Main (15)](https://github.com/user-attachments/assets/77e26faf-cea2-4864-8dc5-db332c999d70)
 
 **BISMUTH** has a back mounted electronics panel for easy access to the electronics. This is different from a more standard bottom mount electronics panel as it allows me to work on the printer without flipping it on its side. 
 
@@ -72,7 +69,7 @@ There is a "Top Hat" on top of the printer that allows me to open the top of the
 
   These electronics were picked after many hours of extensive research determining how many stepper motors I needed, how much power I needed, what co-processor I wanted, etc. 
 
-  ![Frame Assembly (3)](https://github.com/user-attachments/assets/b45675e3-533c-4d55-a837-686f093715d9)
+![Main (16)](https://github.com/user-attachments/assets/821a31e8-a020-4f20-8880-78be07152c14)
 
 ----------
 ## X/Y/ToolHead
@@ -80,7 +77,7 @@ There is a "Top Hat" on top of the printer that allows me to open the top of the
 
 This assembly is the gem of the machine. It took me the majority of the time spent on this project on perfecting this part of the printer. It is, after all, the most important. 
 
-![X_Y_Extruder Main (1)](https://github.com/user-attachments/assets/9a8343e5-1789-4771-91db-e9ae3034c419)
+![Main (18)](https://github.com/user-attachments/assets/973a0a51-c3c6-4970-bd9e-249151787005)
 
 * Cross Gantry Motion system, a system similar to CoreXY, but has 2 linear rails forming a cross for increased stability
 * Both the X and Y axis on this machine have 2 [Nema 17 46mm Shaft Stepper Motors](https://www.filastruder.com/products/ldo-stepper-motors-all-types?variant=39923122339911) each
