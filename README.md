@@ -111,12 +111,13 @@ The Z Assembly consists of the motion system and the bed mounting system.
 ## Skirt
 The Skirt is the last assembly of **BISMUTH**. It encloses the bottom of the printer and houses a few vital componants of the printer.
 
-* Bento Box Carbon + HEPA Filter
+
+* [Bento Box Carbon + HEPA Filter](https://www.printables.com/model/272525-bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclo)
 * _Second_ filament holder _inside_ the printer for better packaging
 * [HULA Anti Vibration Feet](https://makerworld.com/en/models/417509#profileId-502144)
 * Holes for easy wiring
 
-![Skirt Assembly](https://github.com/user-attachments/assets/8a701cf8-7781-447b-a4e5-ec6102f0ae6b)
+![Main (20)](https://github.com/user-attachments/assets/c09d9e9d-8fee-45f9-853a-42fdcd265129)
 
 ---------
 ### Why Call It Bismuth?
