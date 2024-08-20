@@ -1,7 +1,11 @@
 ![Bismuth Logo (1)](https://github.com/user-attachments/assets/9c9e8940-ce27-4102-9270-910c59ca3b7a)
 
-# What Is **BISMUTH**?
-**BISMUTH** is my custom designed 3D printer that I designed _from scratch_ to fufill my dream of making my own super-printer. It has a 180mm * 180mm * 300mm bed size, and utilized a Cross Gantry Motion System with a triple leadscrew setup and Maxwell Kinematic Bed joints.
+# **BISMUTH** At A Glance?
+* Custom designed 3D printer _from scratch_
+* 180mm * 180mm * 300mm bed size
+* Cross Gantry Motion System
+* Triple leadscrew Zed Axis
+* Maxwell Kinematic Bed Joints
 
 ### This project is the culmination of over 100 hours of CAD, 20 hours of research, and many hours to come of building and firmware. As of this point, Bismuth is _just a cad design_. I am currently working on sourcing all of the parts to build this, after which I will work on firmware and tuning. You too can design your own printer. Use online models of other designs. Do research. Set goals. Most importantly, ask questions! I have learned so much from this project that I would not have known prior. 
 ------------
@@ -40,39 +44,55 @@ I will go over each seperate section of my printer in detail, explaining the des
 ------------
 ## Frame
 
-### ![Frame Assembly (1)](https://github.com/user-attachments/assets/932d1e86-c070-43b9-b76d-8c26dee534a9)
 
-Utilizing 3030 Extrusion, Plasma Cut **Steel** Gussets, and 3D-Printed Brackets, this is one heck of a beefy frame. The reason this frame is so strong is because I intend to push the speed as much as possible, and a big, sturdy frame is key for that. Additionally, I wanted to use MGN12 Linear Rails, which are bigger and stronger than the more typical MGN9. Again, this was so I could push my printer as fast as possible. 
 
-**BISMUTH** is fully enclosed to better print stronger "engineering grade" filaments. My side panels are laser cut .125 in acrylic panels.
+* Utilizes 3030 Extrusion, Plasma Cut **Steel** Gussets, and 3D-Printed Brackets
+* MGN12 Linear Rails, which are bigger and stronger than the more typical MGN9
+* Fully enclosed to better print stronger "engineering grade" filaments
+* Side panels are laser cut .125 in acrylic panels
+* One of _two_ possible spool holders rests on the frame. It is the standard peg shape that mounts to the frame and holds the spool.
+* 17"L * 16"W * 24"H Volume
 
 There is a "Top Hat" on top of the printer that allows me to open the top of the printer to remove prints, introduce more airflow, etc. This is made with more 3030 extrusion and .125 in acrylic panels. It utilizes printed hinges to swing open/closed. 
-
-One of _two_ possible spool holders rests on the frame. It is the standard peg shape that mounts to the frame and holds the spool. 
-
-![Frame Assembly (2)](https://github.com/user-attachments/assets/fb020cc0-4156-4579-a920-cbdc4171d8d5)
+  
+### ![Frame Assembly (1)](https://github.com/user-attachments/assets/932d1e86-c070-43b9-b76d-8c26dee534a9)
 
 **BISMUTH** has a back mounted electronics panel for easy access to the electronics. This is different from a more standard bottom mount electronics panel as it allows me to work on the printer without flipping it on its side. 
 
   ### Electronics 
-  [BTT Octopus Pro Motherboard]([url](https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40144816767074))
-  [Raspberry Pi 4 Model B]([url](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/))
-  [Nitehawk-36 USB Toolhead Board]([url](https://www.fabreeko.com/products/nitehawk-36-for-round-pancake-motors-usb-toolhead-by-ldo))
-  [Meanwell 24V 350W Power Supply]([url](https://www.amazon.com/MEAN-WELL-LRS-350-24-Switching-Printer/dp/B07SQLJG5L?hydadcr=19107_13375052&keywords=meanwell+24v+350w&qid=1696872093&sr=8-3&th=1))
+  [BTT Octopus Pro Motherboard](https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40144816767074)
+ 
+  [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+  
+  [Nitehawk-36 USB Toolhead Board](https://www.fabreeko.com/products/nitehawk-36-for-round-pancake-motors-usb-toolhead-by-ldo)
+  
+  [Meanwell 24V 350W Power Supply](https://www.amazon.com/MEAN-WELL-LRS-350-24-Switching-Printer/dp/B07SQLJG5L?hydadcr=19107_13375052&keywords=meanwell+24v+350w&qid=1696872093&sr=8-3&th=1)
 
   These electronics were picked after many hours of extensive research determining how many stepper motors I needed, how much power I needed, what co-processor I wanted, etc. 
 
-  
+  ![Frame Assembly (3)](https://github.com/user-attachments/assets/b45675e3-533c-4d55-a837-686f093715d9)
+
+
 ## X/Y/ToolHead
+
 
 This assembly is the gem of the machine. It took me the majority of the time spent on this project on perfecting this part of the printer. It is, after all, the most important. 
 
-![Extruder Assembly (1)](https://github.com/user-attachments/assets/6d3d3b6e-9b3a-4a7e-bc12-56f0570dbb62)
+![X_Y_Extruder Main (1)](https://github.com/user-attachments/assets/9a8343e5-1789-4771-91db-e9ae3034c419)
 
-**BISMUTH** uses a Cross Gantry Motion system, a system similar to CoreXY, but has 2 linear rails forming a cross for increased stability, especially at higher speeds. Both the X and Y axis on this machine have 2 motors each, leading to increased amounts of torque without losing speed. I used [Nema 17 46mm Shaft Stepper Motors](https://www.filastruder.com/products/ldo-stepper-motors-all-types?variant=39923122339911) for my X and Y axis due to their power and speed, which was necessary to achieve my goals. 
+* Cross Gantry Motion system, a system similar to CoreXY, but has 2 linear rails forming a cross for increased stability
+* Both the X and Y axis on this machine have 2 [Nema 17 46mm Shaft Stepper Motors](https://www.filastruder.com/products/ldo-stepper-motors-all-types?variant=39923122339911) each
 
   ### Tool Head
-  My toolhead consists of 
+  My toolhead consists of:
+  * [Sherpa Mini 2 Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+  * [Bambu Lab](https://us.store.bambulab.com/products/bambu-hotend-x1c)/[E3D ObXidian Hotend](https://e3d-online.com/products/hf-obx-bambu)
+  * Dual 4010 Blower Fans + Custom Fan Ducts for cooling
+  * [Beacon Eddy Current Sensor for ABL](https://beacon3d.com/product/beacon/)
+  * [Nitehawk-36 USB Toolhead Board](https://www.fabreeko.com/products/nitehawk-36-for-round-pancake-motors-usb-toolhead-by-ldo)
+
+  ![Extruder Assembly (3)](https://github.com/user-attachments/assets/90e3be61-e391-4f24-ba6a-c489960c05d8)
+
 ## Z Axis
 
 
@@ -81,7 +101,7 @@ This assembly is the gem of the machine. It took me the majority of the time spe
 
 ### Why Call It Bismuth?
 
-Bismuth is a chemical element with atomic number 83. Wheh crystalized, it makes really awesome square-like crystal shapes, like the shape of this printer. Additionally, bismuth comes in all sorts of shapes and colors. When combined with other materials, it is used as electrical fuses and more! All of these factors combined makes the name Bismuth a perfect name for this printer!
+Bismuth is a chemical element with atomic number 83. Wheh crystalized, it makes really awesome square-like crystal shapes, like the shape of this printer. Additionally, bismuth comes in all sorts of shapes and colors. When combined with other materials, it is used as electrical fuses and more! All of these factors combined makes the name Bismuth a perfect name for this printer! Plus, Bismuth is my personal favorite mineral :)
 
 
 
