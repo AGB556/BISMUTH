@@ -1,6 +1,6 @@
-![Bismuth Logo (1)](https://github.com/user-attachments/assets/9c9e8940-ce27-4102-9270-910c59ca3b7a)
+![Bismuth Logo (2)](https://github.com/user-attachments/assets/0e810f82-dcf4-4951-af5d-ffe281d8f081)
 
-# **BISMUTH** At A Glance?
+# **BISMUTH** At A Glance
 * Custom designed 3D printer _from scratch_
 * 180mm * 180mm * 300mm bed size
 * Cross Gantry Motion System
@@ -74,7 +74,7 @@ There is a "Top Hat" on top of the printer that allows me to open the top of the
 
   ![Frame Assembly (3)](https://github.com/user-attachments/assets/b45675e3-533c-4d55-a837-686f093715d9)
 
-
+----------
 ## X/Y/ToolHead
 
 
@@ -97,6 +97,7 @@ This assembly is the gem of the machine. It took me the majority of the time spe
   
   ![Extruder Assembly (3)](https://github.com/user-attachments/assets/90e3be61-e391-4f24-ba6a-c489960c05d8)
 
+-----------
 ## Z Axis
 
 The Z Assembly consists of the motion system and the bed mounting system. 
@@ -108,12 +109,18 @@ The Z Assembly consists of the motion system and the bed mounting system.
 
 ![Z Assembly](https://github.com/user-attachments/assets/33bc946c-1f25-4a07-9fd8-b9d33524e162)
 
-
+----------
 ## Skirt
 The Skirt is the last assembly of **BISMUTH**. It encloses the bottom of the printer and houses a few vital componants of the printer.
 
 * Bento Box Carbon + HEPA Filter
-* _Second_ 
+* _Second_ filament holder _inside_ the printer for better packaging
+* [HULA Anti Vibration Feet](https://makerworld.com/en/models/417509#profileId-502144)
+* Holes for easy wiring
+
+![Skirt Assembly](https://github.com/user-attachments/assets/8a701cf8-7781-447b-a4e5-ec6102f0ae6b)
+
+---------
 ### Why Call It Bismuth?
 
 Bismuth is a chemical element with atomic number 83. Wheh crystalized, it makes really awesome square-like crystal shapes, like the shape of this printer. Additionally, bismuth comes in all sorts of shapes and colors. When combined with other materials, it is used as electrical fuses and more! All of these factors combined makes the name Bismuth a perfect name for this printer! Plus, Bismuth is my personal favorite mineral :)
@@ -122,4 +129,4 @@ Bismuth is a chemical element with atomic number 83. Wheh crystalized, it makes 
 
 ![Main (12)](https://github.com/user-attachments/assets/8f1930d0-68b5-478f-8c8d-24d834be3062)
 
-![Bismuth Logo](https://github.com/user-attachments/assets/668d50d5-2654-4665-835b-2a3f12fab01a)
+
