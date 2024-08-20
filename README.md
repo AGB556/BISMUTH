@@ -18,7 +18,8 @@ Print Well ✅
 Print Strong 💪
 
 ------------
-![Main (13)](https://github.com/user-attachments/assets/b9a2bc70-1b4f-41f7-a455-dc49188f2ed3)
+![Main (14)](https://github.com/user-attachments/assets/005da63f-5968-4543-8921-6144759d0324)
+
 
 Before I get into the specifications of the machine, you can find the full CAD design in [Onshape](https://cad.onshape.com/documents/ea3003fedda180a5827edece/w/24975c8a2f1006566d68c26a/e/f749387482ee518d7d44cc61).
 
