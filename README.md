@@ -123,6 +123,9 @@ The Skirt is the last assembly of **BISMUTH**. It encloses the bottom of the pri
 
 Bismuth is a chemical element with atomic number 83. Wheh crystalized, it makes really awesome square-like crystal shapes, like the shape of this printer. Additionally, bismuth comes in all sorts of shapes and colors. When combined with other materials, it is used as electrical fuses and more! All of these factors combined makes the name Bismuth a perfect name for this printer! Plus, Bismuth is my personal favorite mineral :)
 
+![image](https://github.com/user-attachments/assets/71cf03f4-cfa9-48e0-ac46-cd12883f80db)
+
+
 
 ![Main (19)](https://github.com/user-attachments/assets/64b1e7ce-e1e8-4ad6-a8eb-66caf02fe40e)
 
