@@ -7,7 +7,7 @@
 * Triple leadscrew Zed Axis
 * Maxwell Kinematic Bed Joints
 
-### This project is the culmination of over 100 hours of CAD, 20 hours of research, and many hours to come of building and firmware. As of this point, Bismuth is _just a cad design_. I am currently working on sourcing all of the parts to build this, after which I will work on firmware and tuning. You too can design your own printer. Use online models of other designs. Do research. Set goals. Most importantly, ask questions! I have learned so much from this project that I would not have known prior. 
+### This open source project is the culmination of over 100 hours of CAD, 20 hours of research, and many hours to come of building and firmware. As of this point, Bismuth is _just a cad design_. I am currently working on sourcing all of the parts to build this, after which I will work on firmware and tuning. You too can design your own printer. Use online models of other designs. Do research. Set goals. Most importantly, ask questions! I have learned so much from this project that I would not have known prior. 
 ------------
 My Goals: 
 
@@ -40,6 +40,8 @@ I will go over each seperate section of my printer in detail, explaining the des
   Is It Easy To Repair? 🛠️
 
   Will It Let Me Accomplish My Goals? 🦾 
+
+![image](https://github.com/user-attachments/assets/1fa7face-4420-4467-9118-d871c69ca7c8)
 
 ------------
 ## Frame
@@ -91,14 +93,27 @@ This assembly is the gem of the machine. It took me the majority of the time spe
   * [Beacon Eddy Current Sensor for ABL](https://beacon3d.com/product/beacon/)
   * [Nitehawk-36 USB Toolhead Board](https://www.fabreeko.com/products/nitehawk-36-for-round-pancake-motors-usb-toolhead-by-ldo)
 
+  These componants were all picked for their effectiveness, weight, price point, and size. My custom toolhead has a weight of under 325 grams!
+  
   ![Extruder Assembly (3)](https://github.com/user-attachments/assets/90e3be61-e391-4f24-ba6a-c489960c05d8)
 
 ## Z Axis
 
+The Z Assembly consists of the motion system and the bed mounting system. 
+
+* Triple Leadscrew Motion System
+* [Maxwell Kinematic Bed Mounting](https://en.wikipedia.org/wiki/Kinematic_coupling)
+* Custom Machined MIC6 Aluminum Bed
+* Magnetic Powder Coated PEI Spring Steel Bed
+
+![Z Assembly](https://github.com/user-attachments/assets/33bc946c-1f25-4a07-9fd8-b9d33524e162)
 
 
 ## Skirt
+The Skirt is the last assembly of **BISMUTH**. It encloses the bottom of the printer and houses a few vital componants of the printer.
 
+* Bento Box Carbon + HEPA Filter
+* _Second_ 
 ### Why Call It Bismuth?
 
 Bismuth is a chemical element with atomic number 83. Wheh crystalized, it makes really awesome square-like crystal shapes, like the shape of this printer. Additionally, bismuth comes in all sorts of shapes and colors. When combined with other materials, it is used as electrical fuses and more! All of these factors combined makes the name Bismuth a perfect name for this printer! Plus, Bismuth is my personal favorite mineral :)
@@ -107,45 +122,4 @@ Bismuth is a chemical element with atomic number 83. Wheh crystalized, it makes 
 
 ![Main (12)](https://github.com/user-attachments/assets/8f1930d0-68b5-478f-8c8d-24d834be3062)
 
-Motherboard - BTT V1.4 w/ MOTv1.0 for a total of 8 stepper motors
-
-
-Power Supply - MeanWell 24V 350W Power Supply 
-
-
-Heated Bed: Custom with something idk yet
-
-
-Stepper Motors - 
-
-
-Nozzle - Hardened CHT Nozzle with standard M6 Threads. 
-
-
-Extruder - Sherpa Mini
-
-
-Display: Will get octoprint set up, but also hoping for a nice touchscreen
-
-
-Firmware: I will get a custom klipper profile set up
-
-
-Auto Leveling: I will have autoleveling, just unsure as to how. 
-
-
-Core XY machine, 3 Motor Leadscrew with kinematic joints to have tramming
-
-
-Enclosed, hoping to reach chamber temps of ~60C at least, 
-
-
-Hotend: Phateus Rapido HF
-
-
-Nevermore Carbon Filter to allow for printing of all materials safely. 
-
-
-Links:
-
-
+![Bismuth Logo](https://github.com/user-attachments/assets/668d50d5-2654-4665-835b-2a3f12fab01a)
